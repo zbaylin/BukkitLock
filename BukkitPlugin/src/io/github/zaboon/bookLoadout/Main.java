@@ -16,7 +16,7 @@ public class Main extends JavaPlugin
 	@Override
 	public void onDisable() {
 		PluginDescriptionFile pdfFile = this.getDescription() ;
-		this.logger.info( pdfFile.getName() + " has been disabled!" ) ;
+		this.logger.info( pdfFile.getName() + " has been disabled! Have a nice day!" ) ;
 	}
 	
 	@Override
