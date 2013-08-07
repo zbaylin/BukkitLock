@@ -1,0 +1,9 @@
+    name: bookLoadout
+    main: io.github.zaboon.bookLoadout.Main
+    version: 1.0
+    commands:
+      cif:
+          description: See if you can fly
+          usage: /<command>
+          permission: zaboon.cif
+          permission-message: Voce nao tem permissao para usar este comando
